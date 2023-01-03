@@ -1,0 +1,15 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins,3DModel,Contributor,Package Display,link,subpart_no
+1,470R,R2,R0805,1,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,https://item.szlcsc.com/142685.html,
+2,C100K,FREQ,9MM_SNAP-IN_POT_3,1,,,,,,5,,rossgrady,,,
+3,THONKICONNNEW,"IN-ACC, IN-TRIG, OUT",THONKICONN-TIGHT,3,,,,,,3,,rossgrady,,,
+4,SUBMINI_SPDT_ON-ON,SW-5,SUBMINI_TOGGLE,1,,,,,,3,,rossgrady,,,
+5,B100K,"DECAY, DIST, NOISE",9MM_SNAP-IN_POT_3,3,,,,,,5,,rossgrady,,,
+6,A10K,FILT,9MM_SNAP-IN_POT_3,1,,,,,,5,,rossgrady,,,
+7,B10K,RES,9MM_SNAP-IN_POT_3,1,,,,,,5,,rossgrady,,,
+8,WIMA 680pF,C4,WIMA 2.5LS 4.7MM SQR,1,MKS0C031000C00,WIMA,,MKS02104M1,,2,,ChazMeister,No,https://www.anglia-live.com/Search/kw.aspx?kw=MKS02104M1%20WIMA,
+9,X4611WV-04I-C28D40,"H1, H2, H3, H4, H5",HDR-TH_4P-P2.00-V-M,5,X4611WV-04I-C28D40,XKB Connectivity,LCSC,C706995,0.009,4,HDR-TH_4P-P2.00-M-LI-1X4P,LCSC,,https://item.szlcsc.com/562479.html,
+10,5.1k,R1,R0805,1,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,https://item.szlcsc.com/142685.html,
+11,1k,R8,R0805,1,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,https://item.szlcsc.com/142685.html,
+12,0.1uF,"C22, C23",C0805,2,,,,,,2,C0805_L2.0-W1.3-H1.3,LCEDA_Lib,,https://item.szlcsc.com/373011.html,
+13,220k,R3,R0805,1,,,,,,2,R0805_L2.0-W1.3-H0.6,LCEDA_Lib,,https://item.szlcsc.com/142685.html,
+14,TL072_SMD,U8,SO08,1,,,,,,8,,rossgrady,,,1
