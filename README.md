@@ -21,3 +21,4 @@ This module, like many of my modules, uses 2mm-pitch male/female headers. Be sur
 
 Most ICs are SOIC 8/14/16; all passives are 0805. The BOMs prefixed with `fixed` are easier to read; the others can be used along with the Pick-and-place and gerber files to order PCBs.
 
+Here is a short video demo -- all drum sounds in this video are coming from the three drum modules: https://youtu.be/YkVDZHsPaZM
